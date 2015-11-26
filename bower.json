@@ -1,0 +1,24 @@
+{
+  "name": "ibootstrap",
+  "authors": [
+    "savokiss <jaynaruto@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "html5shiv": "~3.7.3",
+    "jquery-htmlclean": "~1.4.0",
+    "jquery-ui": "~1.11.4"
+  }
+}
